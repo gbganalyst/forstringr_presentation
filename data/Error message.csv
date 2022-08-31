@@ -1,0 +1,11 @@
+source_string,error_code
+ERROR:432:Connection timed out,?
+ERROR:450:Unexpected error,?
+ERROR:235:Authentication failed,?
+ERROR:400:Bad Request,?
+ERROR:401:Unauthorized,?
+ERROR:402:Payment Required,?
+ERROR:500:Internal Server Error,?
+ERROR:501:Not Implemented,?
+ERROR:502:Bad Gateway,?
+ERROR:503:Service Unavailable,?

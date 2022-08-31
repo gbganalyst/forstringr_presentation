@@ -1,0 +1,21 @@
+Disease Subtype,Count
+E11 Type 2 Diabetes mellitus,4747
+I11 Hypertensive heart disease,3323
+D57 Sickle-cell disorders,2599
+I42 Cardiomyopathy,329
+C50 Malignant neoplasm of breast,282
+E10 Type 1 Diabetes mellitus,142
+C53 Malignant neoplasm of cervix uteri,128
+C61 Malignant neoplasm of prostate,120
+I50 Heart failure,111
+"I50 Heart failure, I11 Hypertensive heart disease, I42 Cardiomyopathy",103
+I42 Cardiomyopathy,92
+I63 Cerebral infarction,83
+"I11 Hypertensive heart disease, I42 Cardiomyopathy",75
+G20 Parkinson disease,74
+G40 Epilepsy,66
+I50 Heart failure,52
+G46 Vascular syndromes of brain in cerebrovascular diseases,49
+O24 Diabtes mellitus in pregnancy,42
+I21 Acute myocardial infarction,37
+C56 Malignant neoplasm of ovary,32

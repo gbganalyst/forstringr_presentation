@@ -1,0 +1,21 @@
+drug_1,drug_2,drug_3,drug_4,drug_5
+Calcium channel blocker,Diuretics,ARB,Calcium channel blocker,
+ACE inhibitor,Diuretics,,,
+Calcium channel blocker,,,,
+Diuretics,Beta blocker,Calcium channel blocker,ACE inhibitor,
+Calcium channel blocker,ACE inhibitor,,,
+Calcium channel blocker,,ARB,,
+Diuretics,Calcium channel blocker,Beta blocker,ARB,
+Calcium channel blocker,,,,
+Diuretics,Calcium channel blocker,,,
+Diuretics,Calcium channel blocker,ACE inhibitor,,
+Calcium channel blocker,Beta blocker,,Diuretics,Diuretics
+Diuretics,ACE inhibitor,ARNI,,
+Calcium channel blocker,Diuretics,ACE inhibitor,,
+ACE inhibitor,Calcium channel blocker,,,
+Calcium channel blocker,ARB,,,
+Diuretics,Calcium channel blocker,Diuretics,,
+Calcium channel blocker,,,,Diuretics
+Diuretics,,ARB,Calcium channel blocker,
+ACE inhibitor,Calcium channel blocker,Diuretics,,
+,Calcium channel blocker,Diuretics,,Diuretics

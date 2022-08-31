@@ -1,0 +1,11 @@
+species,island,date,temperature
+Adelie,Biscoe,22/06/2022,9C
+Gentoo,Biscoe,23/06/2022,8.5C
+Adelie,Biscoe,29/06/2022,8C
+Chinstrap,Dream,6/27/2022,35F
+Gentoo,Dream,6/28/2022,37F
+Adelie,Dream,6/29/2022,38F
+Chinstrap,Litchfield,30/06/2022,12C
+Adelie,Torgersen,02/07/2022,11.5C
+Chinstrap,Torgersen,03/07/2022,10.0C
+Gentoo,Torgersen,05/07/2022,85C
