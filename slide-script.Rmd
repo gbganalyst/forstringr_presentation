@@ -403,7 +403,7 @@ Like in Microsoft Excel, the `str_mid()` returns a specific number of characters
 **Example 1**:
 
 ```{r}
-str_mid("Super Eagle", 7, 5)
+str_mid("Super Eagle", start = 7, n = 5)
 
 str_mid("Oyo Ibadan", 5, 6)
 ```
