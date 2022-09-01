@@ -85,6 +85,38 @@ class: about-me-slide, inverse, middle, center
 [`r icons::icon_style(icons::fontawesome("github"), scale = 1)` @gbganalyst](https://github.com/gbganalyst)
 
 ---
+class: inverse, middle, center
+
+## Why `forstringr` package?
+
+```{r, echo=FALSE, fig.align='center', out.height= "25%", out.width= "30%"}
+knitr::include_graphics("images/logo.png")
+```
+
+---
+class: middle
+
+## Why `forstringr` package?
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/stackoverflow_1.png")
+```
+
+Source: [stackoverflow](https://stackoverflow.com/questions/15897236/extract-the-first-or-last-n-characters-of-a-string/63615311#63615311)
+
+---
+class: middle
+
+## Why `forstringr` package?
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/stackoverflow_2.png")
+```
+
+Source: [stackoverflow](https://stackoverflow.com/questions/7963898/extracting-the-last-n-characters-from-a-string-in-r/63615027#63615027)
+
+
+---
 class: middle, hide_logo
 
 .w-100.lh-copy[
