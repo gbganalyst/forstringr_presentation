@@ -15,6 +15,6 @@ other manipulation tools such as tidyr and dplyr. Like in the stringr
 package, most functions in `forstringr` begin with `str_`.
 
 
-**forstringr repo**: <https://github.com/gbganalyst/forstringr>
+`forstringr package repository`: <https://github.com/gbganalyst/forstringr>
 
-**forstringr presentation slide**: <https://bit.ly/forstringr-presentation-slide>
+`forstringr presentation slide`: <https://bit.ly/forstringr-presentation-slide>
