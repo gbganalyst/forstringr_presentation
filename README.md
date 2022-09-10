@@ -1,6 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# forstringr presentation <a><img src='man/figures/logo.png' align="right" height="138.5" /></a>
+# forstringr presentation slide <a><img src='man/figures/logo.png' align="right" height="138.5" /></a>
 
 <!-- badges: start -->
 <!-- badges: end -->
